@@ -1,0 +1,13 @@
+1º) Fork no  repositório.
+
+2º) Alterar o arquivo de exercício, de cada questão.
+
+3º) Adicionar a alteração ao commit
+
+4º) Push no repositório
+
+Para editar tipo java
+{% highlight java %}
+
+{% endhighlight java %}
+
