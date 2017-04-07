@@ -1,0 +1,15 @@
+olá Mundo
+
+git init -> inicia o git
+
+git status -> mostra se existe alguma atualização
+
+git add arquivo.txt -> Adiciona o arquivo ao git
+
+git commit -> Adiciona um comentário
+
+git log -> Verifica as modificações do progama
+
+git show (endereço do commit) -> Mostra o comentário
+
+
